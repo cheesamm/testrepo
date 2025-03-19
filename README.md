@@ -4,11 +4,14 @@ creating test repo for demo use
 
 
 
+**Default Details**
 
+- **Screen length:** 2475mm
+- **Tablet height (Fix to middle of tablet):** 1400mm
+- **Max angle:** 45° (optional)
 
+**Measurements Table**
 
-| Left Align | Center Align | Right Align |
-|:-----------|:-----------:|------------:|
-| Data 1     | Data 2      | Data 3      |
-| Data 4     | Data 5      | Data 6      |
-| Data 7     | Data 8      | Data 9      |
+| Tablet Distance (mm) | Screen Space Height (mm) |
+| -------------------- | ------------------------ |
+| 1100                 | 810                      |
